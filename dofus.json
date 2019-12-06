@@ -4,7 +4,7 @@
 		"classe":"Iop",
 		"name":"Goultard",
 		"gender":"Male",
-		"sorts":["Colère de Iop","Tempête de Puissance","Epée Céleste"],
+		"sort":["Colère de Iop","Tempête de Puissance","Epée Céleste"],
 		"description":"Guerriers téméraires. Les Iops sont des guerriers fonceurs et sans reproche ! Une chose est sûre : les Iops savent faire parler les armes. D'ailleurs, se retrouver pris dans une bagarre au moins une fois par jour est pour eux un signe de bonne santé. Leur tempérament impétueux fait des Iops des paladins de l'extrême, capables du meilleur... comme du pire!",
 		"icone":"https://vignette.wikia.nocookie.net/129dofus/images/3/34/Iop.png/revision/latest/scale-to-width-down/50?cb=20190426150620",
 		"image":"https://img.webme.com/pic/d/dofus-ae/iop_bg.jpg"
@@ -86,7 +86,7 @@
 		"id":"09",
 		"classe":"Pandawa",
 		"name":"Pastis","gender":"Male",
-		"sorts":["Picole","Gueule de Bois","Souillure"],
+		"sort":["Picole","Gueule de Bois","Souillure"],
 		"description":"Bagarreurs assoiffés. Les Pandawas sont des guerriers adeptes des arts martiaux qui savent faire des folies de leur corps ! Ils peuvent même en faire avec le corps des autres... Le Pandawa sait comment soulever les foules, il porte ses alliés sur ses épaules pour mieux les protéger. Quant à ses ennemis, il les enverra valser dans le décor, avant de fêter sa victoire avec une bonne rasade de lait de bambou!",
 		"icone":"https://vignette.wikia.nocookie.net/129dofus/images/2/2c/Pandawa.png/revision/latest/scale-to-width-down/50?cb=20190426150638",
 		"image":"https://img.webme.com/pic/d/dofus-ae/pandawa_bg.jpg"
@@ -96,7 +96,7 @@
 		"id":"10",
 		"classe":"Sram",
 		"name":"Jack","gender":"Male",
-		"sorts":["Attaque Mortelle","Coup Sournois","Arnaque"],
+		"sort":["Attaque Mortelle","Coup Sournois","Arnaque"],
 		"description":"Assassins. Les Srams sont des assassins qui aiment les bourses, rebondies de préférence. Trousser les pans d'une tunique, tâter le fond d'une poche, faire preuve de doigté, palper enfin des bijoux tant convoités avant de poser un piège ou d'asséner un coup mortel, voilà la vie d'un disciple de Sram!",
 		"icone":"https://vignette.wikia.nocookie.net/129dofus/images/e/ed/Sram.png/revision/latest/scale-to-width-down/50?cb=20190426150705",
 		"image":"https://img.webme.com/pic/d/dofus-ae/sram_bg.jpg"
@@ -107,7 +107,7 @@
 		"classe":"Feca",
 		"name":"Café",
 		"gender":"Male",
-		"sorts":["Glyphe Enflammée","Glyphe Agressive","Bouclier du Feca"],
+		"sort":["Glyphe Enflammée","Glyphe Agressive","Bouclier du Feca"],
 		"description":"Protecteurs. Les Fécas sont de loyaux protecteurs toujours sur la défensive. Ils sont appréciés dans les groupes d'aventuriers pour leurs armures élémentaires et leur capacité à encaisser les coups durs. Ils sont également maîtres dans l'art des signes magiques : quand il va y avoir du grabuge, les Fécas sortent leurs glyphes!",
 		"icone":"https://vignette.wikia.nocookie.net/129dofus/images/5/57/Feca.png/revision/latest/scale-to-width-down/50?cb=20190426150612",
 		"image":"https://i.skyrock.net/0045/78050045/pics/2996907037_1_3_cgGy48dg.jpg"
