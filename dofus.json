@@ -118,7 +118,7 @@
 		"classe":"Ecaflip",
 		"name":"Kerubim",
 		"gender":"Male",
-		"sorts":["Pile ou Face","Bluff","Griffe Joueuse"],
+		"sort":["Pile ou Face","Bluff","Griffe Joueuse"],
 		"description":"Combattants imprévisibles. Les Ecaflips sont des guerriers joueurs qui se fourrent dans les endroits où l'on peut gagner gros, et perdre beaucoup... Un Ecaflip bien dans sa peau parie sans arrêt, pour tout et pour rien. Mais attention, il prend le jeu très au sérieux et ira même jusqu'à risquer sa vie sur un jet de dés pour tenter de remporter la mise...",
 		"icone":"https://vignette.wikia.nocookie.net/129dofus/images/1/18/Ecaflip.png/revision/latest/scale-to-width-down/50?cb=20190426150546",
 		"image":"http://zam.zamimg.com/images/3/b/3b13bab59b8807c557a4f562d7d49bdc.png"
