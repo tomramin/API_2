@@ -16,7 +16,7 @@
 
 	{
 		"id":"02",
-		"classe":"Cra",
+		"classe":"Crâ",
 		"name":"Ashe",
 		"gender":"Female",
 		"sort":"FLèche Explosive, Flèche Punitive, Oeil de Taupe",
@@ -96,7 +96,7 @@
 		
 	{
 		"id":"08",
-		"classe":"Xelor",
+		"classe":"Xélor",
 		"name":"Nox","gender":"Male",
 		"sort":"Rayon Obscur, Poussière Temporelle, Sablier du Xélor",
 		"description":"Maître du temps. Les Xélors sont des mages qui maîtrisent le temps et toutes les mécaniques qui donnent l'heure : carillons, horloges et pendules leur obéissent au doigt et à l'œil.",
