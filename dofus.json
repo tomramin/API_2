@@ -50,7 +50,8 @@
 	{
 		"id":"03",
 		"classe":"Eniripsa",
-		"name":"Jenny","gender":"Female",
+		"name":"Jenny",
+		"gender":"Female",
 		"sort1":"Mot de Reconstitution",
 		"sort2":"Mot d'Altruisme",
 		"sort3":"Mot Stimulant",
@@ -97,7 +98,8 @@
 	{
 		"id":"05",
 		"classe":"Sacrieur",
-		"name":"Bersek","gender":"Male",
+		"name":"Bersek",
+		"gender":"Male",
 		"sort1":"Punition",
 		"sort2":"Folie Sanguinaire",
 		"sort3":"Dissolution",
@@ -120,7 +122,8 @@
 	{
 		"id":"06",
 		"classe":"Enutrof",
-		"name":"Ruel","gender":"Male",
+		"name":"Ruel",
+		"gender":"Male",
 		"sort1":"Pelle Masacrante",
 		"sort2":"Maladresse",
 		"sort3":"Coffre au Trésor",
@@ -143,7 +146,8 @@
 	{
 		"id":"07",
 		"classe":"Osamodas",
-		"name":"Sadoma","gender":"Female",
+		"name":"Sadoma",
+		"gender":"Female",
 		"sort1":"Piqûre Motivante",
 		"sort2":"Frappe du Craqueleur",
 		"sort3":"Coeur de Dragon",
@@ -166,7 +170,8 @@
 	{
 		"id":"08",
 		"classe":"Xélor",
-		"name":"Nox","gender":"Male",
+		"name":"Nox",
+		"gender":"Male",
 		"sort1":"Rayon Obscur",
 		"sort2":"Poussière Temporelle",
 		"sort3":"Sablier du Xélor",
@@ -189,10 +194,11 @@
 	{
 		"id":"09",
 		"classe":"Pandawa",
-		"name":"Pastis","gender":"Male",
+		"name":"Pastis",
+		"gender":"Male",
 		"sort1":"Picole",
 		"sort2":"Gueule de Bois",
-		"sort3":"ouillure",
+		"sort3":"Souillure",
 		"image_sort1":"https://static.ankama.com/dofus/www/game/spells/55/sort_686.png",
 		"image_sort2":"https://static.ankama.com/dofus/www/game/spells/55/sort_692.png",
 		"image_sort3":"https://static.ankama.com/dofus/www/game/spells/55/sort_698.png",
@@ -212,7 +218,8 @@
 	{
 		"id":"10",
 		"classe":"Sram",
-		"name":"Jack","gender":"Male",
+		"name":"Jack",
+		"gender":"Male",
 		"sort1":"Attaque Mortelle",
 		"sort2":"Piège Mortel",
 		"sort3":"Arnaque",
